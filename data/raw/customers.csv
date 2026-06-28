@@ -1,0 +1,501 @@
+customer_id,name,age,address,occupation,account_opened,kyc_status,risk_label
+CUST1000,Sara Flores,65,"63458 Padilla Island, Camposport, IN 66286",Business Owner,2016-09-10,Verified,normal
+CUST1001,Darrell Brandt,42,"846 Brown Terrace, South Kevin, VT 83981",Trader,2021-09-12,Verified,normal
+CUST1002,Shannon Brooks,33,"PSC 2871, Box 3268, APO AP 35317",Retired,2022-02-16,Verified,normal
+CUST1003,Travis Phillips,59,"340 Shannon Centers Suite 378, Guzmanfurt, HI 83433",Business Owner,2019-08-02,Flagged,normal
+CUST1004,Richard Perez,52,"212 Laura Union Suite 689, East Ginaton, TX 10672",Business Owner,2019-02-01,Verified,normal
+CUST1005,Vickie Rodriguez,30,"57332 Catherine Green, Stephenshire, WA 98691",Trader,2016-08-29,Verified,normal
+CUST1006,Jessica Hood,57,"2616 Shannon Forges Suite 216, New Matthewmouth, IA 28157",Consultant,2024-03-29,Verified,normal
+CUST1007,Robyn Bishop,60,"893 Hall Mill, Kimstad, MN 33643",Trader,2017-05-11,Flagged,normal
+CUST1008,Kimberly Dixon,51,"11493 Omar Knolls, Port Stephen, UT 76729",Trader,2024-10-17,Pending,normal
+CUST1009,Kathleen Stevens DVM,62,"46836 Cathy Branch, Sherriland, WA 30828",Engineer,2022-12-05,Verified,normal
+CUST1010,Maria Barajas,35,"USCGC Bell, FPO AA 02219",Retired,2017-10-18,Pending,normal
+CUST1011,Henry Todd,46,"Unit 3562 Box 6579, DPO AA 09856",Engineer,2023-01-09,Verified,normal
+CUST1012,Steven Martin,38,"292 Wilson Ville Suite 710, North Aaronville, AR 09986",Engineer,2025-02-02,Verified,normal
+CUST1013,Christian Cain,30,"192 Ashley Extension Suite 034, Johnview, MS 87280",Doctor,2019-01-22,Verified,normal
+CUST1014,Alexander Padilla,47,"746 Crystal Inlet, Lake Josephfort, MT 33338",Engineer,2020-07-29,Flagged,normal
+CUST1015,Janice Harris,41,"8162 Theresa Mission Apt. 306, Parkerside, WA 48434",Business Owner,2023-07-03,Pending,normal
+CUST1016,Timothy Rojas,59,"748 Gonzalez Glen, Nancyberg, IA 03315",Business Owner,2024-08-23,Pending,normal
+CUST1017,Brad Ward,30,"320 Conner Village Apt. 769, South Nicolestad, MD 35023",Consultant,2025-02-22,Verified,normal
+CUST1018,Chelsea Miller,65,"5211 Sims Bridge Apt. 538, Hillberg, SC 47518",Consultant,2024-07-24,Verified,normal
+CUST1019,Christina Cooper,61,"2408 Rachel Garden, Garciachester, NC 71055",Trader,2023-07-26,Verified,normal
+CUST1020,Mark Davis,27,"27044 Avila Divide, Lake Meganton, MO 73162",Retired,2023-04-14,Verified,normal
+CUST1021,Michael Chaney,43,"10289 Carter Fork Apt. 017, Port Terryside, GU 20798",Business Owner,2018-07-29,Verified,normal
+CUST1022,Riley Oneill,31,"8387 Thomas Field, East Heather, CT 52729",Doctor,2017-07-22,Verified,normal
+CUST1023,Julie Lewis,54,"5104 Evans Junctions Apt. 283, West Michelebury, ID 02244",Retired,2023-09-09,Verified,normal
+CUST1024,Lisa Boyd,35,"1442 Adams Forges, Ronaldtown, NY 26694",Engineer,2025-04-14,Verified,normal
+CUST1025,Elizabeth Brown,38,"7945 Michael Square Apt. 617, Vargasfurt, NJ 92702",Retired,2018-08-18,Verified,normal
+CUST1026,Jennifer Gomez,29,"77127 Kimberly Summit Apt. 778, Waltersburgh, VT 47167",Consultant,2022-06-08,Verified,normal
+CUST1027,Jacqueline Andrews,59,"95741 Wagner Glen Suite 182, Bennettmouth, DC 66335",Retired,2018-05-21,Verified,normal
+CUST1028,Jon Kelly,35,"PSC 9262, Box 6247, APO AE 79973",Doctor,2022-02-01,Pending,normal
+CUST1029,Jon Brady,42,"337 Frances Route, Hendersonfort, IA 23254",Retired,2022-11-16,Flagged,normal
+CUST1030,Tyler Collins,39,"344 Diaz Stravenue Apt. 045, Joshuamouth, OR 96992",Retired,2019-12-27,Verified,normal
+CUST1031,Paul Fischer,28,"998 Jones Rest, Leefort, HI 86115",Trader,2023-08-23,Verified,normal
+CUST1032,Timothy Conner,45,"747 Anna Forges Apt. 840, New Taylor, MA 42232",Doctor,2020-01-12,Verified,normal
+CUST1033,Katherine Olson,29,"PSC 6710, Box 0887, APO AE 07257",Trader,2022-07-06,Flagged,normal
+CUST1034,Andrew Harris,45,"9053 Judith Path Suite 188, West Lauren, DE 70532",Trader,2018-01-25,Pending,normal
+CUST1035,John Gonzalez,50,"2509 Michael Streets, Lorettachester, WI 72889",Retired,2020-12-21,Pending,normal
+CUST1036,Todd Anderson,34,"0565 Kimberly Underpass, Lake Joseph, FM 19157",Engineer,2019-01-02,Verified,normal
+CUST1037,Jacob Turner,40,"11209 Dunlap Terrace, Juliabury, NY 26844",Retired,2016-11-10,Flagged,normal
+CUST1038,Betty Park,59,"12278 Hudson Glens Suite 584, Lake Clairemouth, NY 86958",Engineer,2025-05-07,Flagged,normal
+CUST1039,Mario Bright,52,"82787 Smith Mews Apt. 012, South Stevenfort, WY 46364",Consultant,2022-12-09,Pending,normal
+CUST1040,Roger Glenn,48,"PSC 2993, Box 7345, APO AP 25437",Trader,2018-11-06,Verified,normal
+CUST1041,Sabrina Chavez,57,"44703 Melanie Field, Watsonport, VI 71256",Doctor,2019-03-20,Verified,normal
+CUST1042,Andrew Church,28,"89902 Kimberly Springs Suite 623, New Melissa, WY 98632",Business Owner,2023-09-10,Verified,normal
+CUST1043,Nicole Lynch,65,"USNS Gray, FPO AA 74231",Trader,2017-10-25,Pending,normal
+CUST1044,Edward Griffin,63,"10449 Austin Crescent Suite 468, Lake Brandy, MH 11883",Business Owner,2025-03-10,Pending,normal
+CUST1045,Angela Cooper,49,"796 Ernest Skyway Apt. 453, Port Donald, HI 90977",Consultant,2024-03-30,Pending,normal
+CUST1046,Scott Jones,58,"33878 Long Ways Suite 752, Alexisstad, IN 18189",Engineer,2020-08-29,Flagged,normal
+CUST1047,James Johns,25,"05300 Knox Mountain, Port Bradley, TN 23022",Retired,2020-12-16,Verified,normal
+CUST1048,Jennifer Gutierrez,59,"8754 Golden Rest Suite 846, Patrickshire, MT 84442",Engineer,2017-07-29,Verified,normal
+CUST1049,Tonya Schultz,32,"4268 Martin Spurs Suite 650, Coxshire, NH 89747",Engineer,2017-01-31,Pending,normal
+CUST1050,Donna Hood,35,"27606 Kristina Tunnel, Elizabethtown, NE 20983",Doctor,2021-04-16,Verified,normal
+CUST1051,April Newton,41,"307 Gabrielle Ville, West Ronald, AK 33371",Consultant,2019-07-29,Verified,normal
+CUST1052,Paige Gonzalez,57,"USNV Franklin, FPO AE 26515",Business Owner,2019-02-20,Verified,normal
+CUST1053,Kayla Collier,65,"Unit 5567 Box 2350, DPO AE 66059",Consultant,2024-10-02,Flagged,normal
+CUST1054,Theresa Smith,37,"52203 Heather Inlet, Jessicaborough, OH 60532",Trader,2017-10-16,Verified,normal
+CUST1055,Dr. Heather Summers DDS,35,"5142 Francis Village Suite 285, Andreshire, AK 94418",Consultant,2018-09-04,Flagged,normal
+CUST1056,David Roberts,25,"726 Karen Summit, South Wendy, MD 40457",Consultant,2020-11-15,Verified,normal
+CUST1057,Joan Mills,56,"407 Christopher View Suite 376, New Gary, MN 09561",Business Owner,2016-08-29,Verified,normal
+CUST1058,Bob Wright,48,"796 Derek Court, Kellerburgh, CA 50218",Engineer,2018-05-15,Verified,normal
+CUST1059,Ariel Smith,28,"73562 Jenkins Run Apt. 879, Aliciamouth, KY 48880",Trader,2016-12-25,Flagged,normal
+CUST1060,Anthony Huang,30,"332 Tara Unions, Coleland, NH 67406",Business Owner,2022-10-22,Pending,normal
+CUST1061,Stephen Jensen,29,"1861 Patton Loop, Alejandrobury, KS 57745",Consultant,2023-09-21,Verified,normal
+CUST1062,Donna Peters,33,"5700 Shawn Trafficway Apt. 877, Alisonbury, TN 06011",Retired,2017-07-25,Pending,normal
+CUST1063,Nicole Patterson,60,"746 Emily Mountain Apt. 557, Woodwardville, OH 42981",Trader,2021-11-30,Verified,normal
+CUST1064,Robin Roberts,58,"1366 Jacqueline Pines Suite 890, West Bryan, WA 53729",Consultant,2016-11-08,Pending,normal
+CUST1065,Stephanie Rodriguez,38,"53104 Davis Ports Suite 461, Lake Maryport, DC 91683",Consultant,2023-03-03,Verified,normal
+CUST1066,Regina Walker,44,"127 Juan Rapid Suite 253, East Jessica, VT 36832",Doctor,2025-04-08,Verified,normal
+CUST1067,Paige Peterson,53,"481 Adams Parks Suite 493, Lake Bradyfurt, LA 93032",Consultant,2022-04-04,Pending,normal
+CUST1068,Matthew Johnson,32,"0679 Jenkins Springs, South Matthewtown, MA 19868",Trader,2017-12-05,Verified,normal
+CUST1069,Julie Miller,29,"696 Matthew Meadows Suite 033, Christopherside, FM 26579",Engineer,2021-09-18,Verified,normal
+CUST1070,Lori Nichols,62,"8913 Peter Cape Apt. 320, Clarkbury, VI 62043",Consultant,2023-10-25,Verified,normal
+CUST1071,Vanessa Gonzalez,62,"889 Sean Mills Apt. 628, Lake Charles, AL 84996",Trader,2021-02-07,Verified,normal
+CUST1072,James Brown,29,"USS Brewer, FPO AP 42413",Retired,2024-08-29,Verified,normal
+CUST1073,Lawrence Potts,39,"917 Ricky Tunnel, West Thomasshire, CO 98030",Business Owner,2022-01-09,Verified,normal
+CUST1074,John Mercado,46,"33335 Kaitlyn Fort Suite 790, Port Jean, CO 68563",Business Owner,2017-01-08,Flagged,normal
+CUST1075,Jennifer Snyder,40,"634 Gardner Rue Apt. 281, Candiceborough, MS 90907",Engineer,2018-12-29,Pending,normal
+CUST1076,Robert Robertson,38,"5672 Sanchez Green, East Jason, CO 78209",Consultant,2021-07-25,Verified,normal
+CUST1077,Ricky Strickland,61,"559 Timothy Corners Apt. 168, Josephborough, SD 18792",Consultant,2020-06-06,Pending,normal
+CUST1078,Kevin Hansen,40,"19732 Rodriguez Path, Lake Coryborough, UT 01129",Doctor,2016-11-09,Pending,normal
+CUST1079,John Hendricks,37,"988 Amanda Cliff Suite 621, Johnsonfurt, VA 75929",Business Owner,2020-11-28,Verified,normal
+CUST1080,Wayne Barrera,52,"8881 Walker Bridge Apt. 796, Ernestview, SD 49992",Engineer,2017-11-06,Pending,normal
+CUST1081,Diana Barnes,51,"62098 Murphy Cliff Suite 429, South Jacob, DE 55474",Doctor,2019-05-30,Verified,normal
+CUST1082,Patricia Gutierrez,31,"7543 Michelle Bridge, Hayeston, LA 84744",Business Owner,2018-09-04,Pending,normal
+CUST1083,Richard Strickland,46,"095 Tate Divide Apt. 963, North Zachary, SD 86350",Business Owner,2022-03-18,Verified,normal
+CUST1084,John Brown,37,"0628 Ryan Lakes, Port Tanya, MD 72052",Trader,2021-09-28,Flagged,normal
+CUST1085,Victoria Brown,53,"62209 Santiago Forks, Codyview, PR 28133",Trader,2024-08-13,Pending,normal
+CUST1086,Terri Cisneros,36,"PSC 5345, Box 1823, APO AP 21221",Engineer,2019-12-22,Pending,normal
+CUST1087,Jason Smith,40,"324 Lopez Road Apt. 175, Joneschester, MT 58233",Business Owner,2017-09-14,Pending,normal
+CUST1088,Alexander Valencia,60,"5071 Victoria Station Suite 256, Williamfurt, FM 34441",Business Owner,2016-10-16,Verified,normal
+CUST1089,David Reed,59,"83817 Tammy Flats Apt. 976, Port Emily, IL 83734",Business Owner,2021-11-12,Verified,normal
+CUST1090,Shari Miller,40,"86561 Velez Via, Lake Laurieview, FM 89019",Trader,2022-03-22,Pending,normal
+CUST1091,Nathaniel Hall,56,"526 Hunter Glen, Lake Richard, OK 49655",Doctor,2024-10-07,Verified,normal
+CUST1092,David Mccall,50,"966 Michael Port, North Natasha, CT 51570",Business Owner,2020-03-02,Verified,normal
+CUST1093,Kimberly Aguilar,49,"2126 Micheal Plains, Lake Jaredport, GU 48871",Business Owner,2022-06-27,Pending,normal
+CUST1094,Samantha Steele,41,"661 Gibson Skyway, Huntview, WV 35075",Doctor,2016-12-10,Verified,normal
+CUST1095,Amy Aguilar,52,"154 Dana Knoll Apt. 538, West Cindychester, NY 28320",Retired,2021-02-15,Flagged,normal
+CUST1096,Michael Wall,56,"PSC 5591, Box 0587, APO AE 99525",Trader,2019-06-07,Verified,normal
+CUST1097,Christina Ware,43,"5978 Amanda Plains Apt. 663, Robertborough, VI 80650",Trader,2021-11-05,Verified,normal
+CUST1098,Richard Bailey,62,"3819 Donald Skyway, South Breannaberg, MA 21322",Retired,2021-09-28,Flagged,normal
+CUST1099,Mark Bell,28,"0087 Lisa Track, Kentport, MS 37472",Retired,2025-02-04,Verified,normal
+CUST1100,Carrie Vazquez,28,"Unit 3522 Box 0215, DPO AA 77354",Business Owner,2021-07-31,Flagged,normal
+CUST1101,Richard Carter,55,"06604 Tracy Pike, Paulburgh, NY 98866",Consultant,2021-09-08,Flagged,normal
+CUST1102,William Barrett,35,"PSC 6644, Box 5202, APO AP 41546",Business Owner,2022-02-23,Flagged,normal
+CUST1103,Eric Grimes,30,"219 Long Rapids Suite 149, South Jamie, MN 41453",Trader,2021-04-10,Verified,normal
+CUST1104,Ann Gutierrez,63,"490 Austin Street, Thomasburgh, AZ 26331",Business Owner,2021-11-13,Verified,normal
+CUST1105,Ashley Daniels,50,"0754 Jill Plains, Jessicaberg, FL 12038",Business Owner,2018-03-10,Flagged,normal
+CUST1106,Leah Rodriguez,40,"220 Sarah Prairie, Kingbury, RI 40052",Consultant,2016-10-08,Flagged,normal
+CUST1107,Ricky Valencia,27,"08721 Phillips Viaduct, Sheilahaven, MD 72815",Consultant,2019-07-20,Verified,normal
+CUST1108,Jennifer Patterson,51,"00385 Mendoza Villages Apt. 144, South Jasonland, MO 10281",Retired,2020-04-23,Flagged,normal
+CUST1109,Thomas Mayo,61,"93154 Hailey Wall Suite 623, Murilloview, WY 84080",Consultant,2023-07-31,Verified,normal
+CUST1110,Tony Vasquez,41,"USS Woods, FPO AE 58585",Trader,2020-01-26,Verified,normal
+CUST1111,Anthony Jones,40,"45965 Smith Unions Apt. 948, Normanton, MT 24321",Engineer,2019-12-07,Pending,normal
+CUST1112,Crystal Wise,33,"804 Smith Road Apt. 634, Colemanshire, AK 88473",Retired,2024-03-17,Verified,normal
+CUST1113,Caleb Thomas,54,"81934 Elizabeth Lodge Apt. 422, South Davidfurt, CO 73901",Engineer,2023-10-09,Verified,normal
+CUST1114,Chad Carlson,25,"Unit 6258 Box 2297, DPO AE 23093",Doctor,2022-08-19,Flagged,normal
+CUST1115,Michele Hall,61,"5121 Andrew Square, South Christopher, MH 75286",Business Owner,2021-07-01,Verified,normal
+CUST1116,Julie Fisher,59,"PSC 0608, Box 6925, APO AP 88973",Trader,2022-06-25,Flagged,normal
+CUST1117,Corey Allen,41,"750 Fields Streets Suite 198, Stevenbury, IL 93720",Trader,2022-09-01,Verified,normal
+CUST1118,Anne Tran,29,"385 Beck Isle Apt. 373, Jonesborough, RI 46313",Trader,2019-12-10,Verified,normal
+CUST1119,Joshua Stewart,43,"101 Galvan Village, East Lance, WA 01690",Trader,2023-04-14,Pending,normal
+CUST1120,Julie Cook,59,"6094 Nunez Mountain, South Shanefort, ME 80247",Retired,2024-11-27,Verified,normal
+CUST1121,Crystal Barton,64,"04853 William Dale, Ericshire, NV 27497",Retired,2023-05-16,Flagged,normal
+CUST1122,Austin Schaefer,25,"9435 Wright Lodge Apt. 038, Duarteport, RI 52948",Retired,2022-04-25,Flagged,normal
+CUST1123,Stephen Bridges,44,"4612 Houston Manor, East Anthony, ID 47344",Retired,2025-01-02,Verified,normal
+CUST1124,Christopher Chavez MD,33,"73456 Brianna Mountain, Johnfurt, IN 50553",Engineer,2023-04-08,Verified,normal
+CUST1125,Jackson Friedman,31,"0254 John Square, Rodriguezbury, UT 92791",Retired,2019-08-14,Flagged,normal
+CUST1126,Laura Atkinson,34,"112 Garza Cliff Apt. 642, South Kimberly, KY 70457",Engineer,2016-07-09,Verified,normal
+CUST1127,Ashley Ball,63,"1764 Chan Neck Apt. 625, Penningtonview, UT 87975",Trader,2022-07-15,Verified,normal
+CUST1128,Christina Knapp,38,"1567 Olivia Lock, East Chase, PA 80559",Retired,2021-02-12,Verified,normal
+CUST1129,Ann Sanchez,57,"USNV Burns, FPO AP 53327",Doctor,2018-08-03,Verified,normal
+CUST1130,Faith Montoya,28,"32841 Rasmussen Walks, New Steven, MN 89722",Business Owner,2023-11-14,Pending,normal
+CUST1131,Jacob Alvarado,42,"4826 Cohen Drives, North Georgeton, NH 85581",Business Owner,2025-04-26,Verified,normal
+CUST1132,Kimberly Kidd,46,"144 Rebecca Lane, Port Rachelville, VT 16270",Trader,2022-12-12,Verified,normal
+CUST1133,Christopher Adams,35,"PSC 3040, Box 6859, APO AA 30614",Retired,2025-02-27,Pending,normal
+CUST1134,Philip Sanchez,60,"7000 Tiffany Villages Apt. 904, Lisaborough, CO 92878",Retired,2017-06-28,Pending,normal
+CUST1135,Brandy Brown PhD,60,"8909 Jennifer Inlet, Kaitlynburgh, MN 56428",Business Owner,2024-06-28,Verified,normal
+CUST1136,Jennifer Mcintosh,29,"892 Erin Oval, Scottville, ME 69207",Retired,2021-12-03,Verified,normal
+CUST1137,Robert Murray,59,"45333 Santos Bridge Apt. 891, Lake Terriburgh, MA 94448",Business Owner,2022-07-30,Verified,normal
+CUST1138,Tonya Williamson,62,"757 Webb Roads Apt. 381, Martinberg, ME 41829",Consultant,2025-06-09,Verified,normal
+CUST1139,Katelyn Rogers PhD,52,"47744 Bolton Island Apt. 070, West Michaelburgh, OR 55839",Trader,2022-10-07,Verified,normal
+CUST1140,Lisa Carroll,44,"70291 Mueller Terrace Suite 601, New Cynthiafurt, CT 58463",Engineer,2019-10-01,Verified,normal
+CUST1141,Amanda Fletcher,47,"150 Webb Mountains, South Anna, WA 50980",Trader,2020-05-13,Verified,normal
+CUST1142,Laura Mcdowell,31,"48815 Moore Gateway Apt. 762, North Morgan, WA 89037",Engineer,2017-09-19,Flagged,normal
+CUST1143,Kathryn Montgomery,51,"0502 Jennifer Fort Apt. 098, New Kevinside, KY 55602",Consultant,2017-03-29,Verified,normal
+CUST1144,Maria Goodman,40,"86205 Johnson Park, Stevenfort, AS 03885",Trader,2020-10-03,Verified,normal
+CUST1145,Wyatt Mckee,51,"0079 Joel Estate, West Steven, HI 74138",Business Owner,2022-04-03,Verified,normal
+CUST1146,Sara Holt,46,"40114 David Gateway, Courtneyton, AL 64445",Doctor,2020-06-01,Verified,normal
+CUST1147,Brandi Bonilla,42,"1345 Freeman Fields Suite 812, Port Lucasmouth, OR 47879",Trader,2020-11-05,Verified,normal
+CUST1148,April Turner,49,"41867 Jennifer Creek, Coreystad, GA 93399",Business Owner,2022-05-04,Pending,normal
+CUST1149,Jason Schmidt,39,"08352 Powers Brook Suite 047, Kathleenside, HI 54610",Trader,2020-09-25,Pending,normal
+CUST1150,Gabriel Melendez,47,"07966 Mitchell Summit, New Johnmouth, NJ 02301",Engineer,2020-07-18,Verified,normal
+CUST1151,Connie Hardy,39,"USNV Thomas, FPO AP 10425",Business Owner,2021-07-20,Verified,normal
+CUST1152,Mary Brown,50,"5240 Rebecca Burg Suite 558, Brandonbury, KY 75741",Engineer,2019-11-01,Verified,normal
+CUST1153,Eric Riley,29,"845 Shawn Summit, North Paulstad, GU 77157",Engineer,2021-06-22,Verified,normal
+CUST1154,Joann Barton,57,"798 Wood Curve, Hurstside, FL 57443",Doctor,2019-12-25,Flagged,normal
+CUST1155,Timothy Graham,46,"92268 Perry Path Apt. 649, South Jason, MD 40337",Business Owner,2021-08-26,Verified,normal
+CUST1156,Shelia Price,41,"3612 Jessica Summit, Port John, WI 85568",Trader,2019-10-15,Flagged,normal
+CUST1157,Jennifer Fields,41,"149 Johnson Street, East Jacob, MH 12577",Business Owner,2018-03-09,Verified,normal
+CUST1158,Joshua Summers,63,"1500 William Road, Anneport, WV 08743",Doctor,2017-04-19,Verified,normal
+CUST1159,Emily Franklin,45,"32377 Abigail Haven, Meghanside, MT 33628",Doctor,2019-02-10,Flagged,normal
+CUST1160,David Liu,57,"6838 Bautista Circles, Baileyshire, GU 28641",Business Owner,2019-05-22,Pending,normal
+CUST1161,Kevin King,61,"115 Justin Corners Suite 971, Lake Tinatown, DC 56831",Trader,2021-11-27,Verified,normal
+CUST1162,John Parsons,27,"5473 Hicks Station, South Maria, FL 56077",Retired,2020-06-10,Pending,suspicious
+CUST1163,Carl Peters,25,"7739 Vazquez Landing Suite 017, Loriton, FM 79063",Consultant,2019-07-10,Flagged,normal
+CUST1164,Randy Delgado,37,"1997 David Hill Apt. 321, Jacksontown, RI 26906",Engineer,2023-04-15,Pending,normal
+CUST1165,Jason Orozco,29,"8383 Lisa Pines Apt. 095, New John, GU 24575",Retired,2023-03-06,Verified,normal
+CUST1166,Dennis Davis,64,"072 Martin Loop Apt. 939, Lake Carolbury, DC 28791",Engineer,2021-01-12,Verified,normal
+CUST1167,Renee Arnold,44,"3230 Eric Keys Suite 635, West Jeanettechester, WY 52471",Consultant,2020-12-03,Verified,normal
+CUST1168,Samantha Atkins,51,"8383 Ralph Land Apt. 188, Lake Erinville, MP 22128",Engineer,2024-06-29,Pending,normal
+CUST1169,Jesus Hanson,43,"20312 Robert Pines Apt. 298, Lewisstad, CT 81091",Consultant,2024-04-30,Verified,normal
+CUST1170,Shane Baldwin,37,"2835 Jackson Creek Apt. 237, Jesseburgh, SC 19037",Doctor,2022-07-07,Pending,normal
+CUST1171,James Smith,36,"100 Deborah Station, New Christophermouth, MN 98634",Consultant,2024-08-19,Flagged,normal
+CUST1172,Kaitlyn Barnes,44,"6949 Mary Divide Apt. 373, South Laurenmouth, NM 34789",Doctor,2022-09-14,Flagged,normal
+CUST1173,Mark Oliver,25,"343 Carlson Mount, Laraton, RI 64965",Engineer,2016-08-03,Verified,normal
+CUST1174,Corey Reyes,38,"5915 Victor Drive Apt. 447, Port Marcusberg, RI 28345",Doctor,2022-08-01,Flagged,normal
+CUST1175,Alexandra Holmes,63,"05244 Kelley Lodge Apt. 827, New Jennifer, VT 87889",Retired,2022-04-01,Verified,normal
+CUST1176,Mary Hall,54,"10229 Nguyen Junctions Suite 598, Mariaport, UT 94198",Doctor,2017-01-03,Pending,normal
+CUST1177,Allison Greene,38,"7671 Brandon Dam, West Danielton, MO 76290",Consultant,2022-05-15,Pending,normal
+CUST1178,Douglas Pierce,35,"Unit 5012 Box 7996, DPO AA 17102",Retired,2023-02-25,Verified,normal
+CUST1179,Sean Donaldson,43,"2255 Gardner Greens, Jonesland, LA 77135",Consultant,2018-10-25,Flagged,normal
+CUST1180,Cindy Valencia,46,"USCGC Phillips, FPO AE 13593",Business Owner,2023-01-29,Verified,normal
+CUST1181,Elizabeth Cole,44,"6188 Kenneth River, Maddenville, MS 23313",Trader,2019-10-08,Verified,normal
+CUST1182,Scott Lawson,34,"57994 Nathan Pine Apt. 682, East Mark, VT 77767",Business Owner,2017-06-20,Verified,normal
+CUST1183,Sean King,40,"627 Wanda Glen Apt. 706, Wintersstad, AK 54153",Doctor,2016-12-28,Flagged,normal
+CUST1184,Stephen Richardson,29,"8254 Jenkins Mission Apt. 673, South Michelle, OH 16229",Doctor,2020-03-05,Pending,normal
+CUST1185,Samantha Gonzalez,65,"USS Anthony, FPO AP 12488",Consultant,2021-09-18,Verified,normal
+CUST1186,Kim Mathews,49,"373 Brandon Throughway Apt. 350, Maryburgh, WV 79213",Doctor,2019-09-12,Pending,normal
+CUST1187,Kim Brown,40,"034 Kyle Pike, Jamesborough, CA 18077",Trader,2023-12-14,Verified,normal
+CUST1188,Stephen Silva,31,"108 Perez River Suite 318, Lake Jay, ND 95341",Doctor,2017-04-15,Verified,normal
+CUST1189,Donna Chavez,36,"1451 Shelby Fort, South Alexis, WI 79815",Retired,2018-05-21,Flagged,normal
+CUST1190,Chloe Taylor,54,"6802 Laura Circles, Clarkfurt, PW 49170",Business Owner,2021-09-16,Flagged,normal
+CUST1191,Mrs. Emily Hernandez,40,"891 James Stream, West Connie, FM 13673",Business Owner,2022-04-19,Pending,normal
+CUST1192,Valerie Rose,33,"97711 Baker Views, New Peterhaven, AL 24710",Doctor,2025-02-26,Flagged,normal
+CUST1193,Angela Ortiz,60,"75128 Joshua Curve, Josemouth, MI 41792",Consultant,2022-03-19,Verified,normal
+CUST1194,Matthew Whitney,53,"005 Johnson Mountain Apt. 584, Ianland, WI 32534",Consultant,2018-03-03,Flagged,normal
+CUST1195,Kyle Jones,52,"Unit 3877 Box 4452, DPO AE 17094",Consultant,2018-10-21,Pending,normal
+CUST1196,Steven Smith,35,"446 Brown Club Apt. 923, North Jorge, IL 57631",Retired,2023-06-23,Pending,normal
+CUST1197,Carla Burch,53,"355 David Dale, Port Mark, OH 14692",Engineer,2023-01-01,Verified,normal
+CUST1198,Anthony Meyer,65,"97705 Emily Knolls Suite 954, Morrisonmouth, TN 39237",Engineer,2021-11-09,Flagged,normal
+CUST1199,Erica Campbell,56,"268 Ryan Dam, West Ashley, MD 55703",Retired,2017-01-09,Verified,normal
+CUST1200,Sheila Murphy,42,"4117 Alexis Canyon, East Kimberlyborough, NY 60749",Doctor,2018-02-04,Verified,normal
+CUST1201,Austin Carter,43,"081 Hurst Greens, North Angela, AZ 23369",Trader,2024-12-30,Verified,normal
+CUST1202,Robert Orr,46,"85920 Christopher Trail, Davisberg, NC 39608",Engineer,2025-04-15,Flagged,normal
+CUST1203,Ronald Mcgrath,30,"4469 Raymond Way Apt. 381, Alanside, NE 49126",Trader,2017-09-10,Verified,normal
+CUST1204,Alexis Wong,39,"902 Emily Fort Apt. 437, Hornstad, DE 53790",Doctor,2020-03-12,Verified,normal
+CUST1205,Jacqueline Rios,38,"198 Amy Mountain, Chavezchester, NM 00544",Business Owner,2019-07-10,Pending,normal
+CUST1206,Robert Zavala,51,"02292 Brenda Overpass Apt. 037, Lauraview, SC 35149",Engineer,2021-05-24,Flagged,normal
+CUST1207,Shawn Wade,54,"7144 Valerie Union Apt. 193, Colleenview, TX 47140",Doctor,2023-08-08,Verified,normal
+CUST1208,Michael Stewart,38,"47927 Catherine Unions, Hansenmouth, TX 99056",Doctor,2016-07-04,Pending,normal
+CUST1209,Jared Faulkner,62,"8501 Park Summit, East Jasonbury, FL 08927",Retired,2018-05-28,Verified,normal
+CUST1210,Virginia Bender,61,"420 Jenkins Flats, Leechester, LA 75688",Doctor,2023-05-04,Pending,normal
+CUST1211,Denise Andrews,25,"31229 Teresa Valleys, Philipchester, AS 47751",Engineer,2025-04-15,Verified,normal
+CUST1212,Kevin Smith,49,"4759 Mark Trafficway Apt. 084, Roseland, PW 98550",Doctor,2021-12-05,Flagged,normal
+CUST1213,Eric Baker,59,"PSC 5045, Box 1757, APO AA 12951",Consultant,2021-04-20,Verified,normal
+CUST1214,Ronnie Strickland,56,"Unit 2297 Box 2162, DPO AE 81895",Trader,2020-11-11,Verified,normal
+CUST1215,Eric Burke,52,"810 Eric Island Apt. 059, East Sarah, OH 86216",Doctor,2024-02-20,Verified,normal
+CUST1216,Scott English,49,"517 Anderson Springs Apt. 064, East Daniel, NE 02125",Engineer,2022-04-22,Pending,normal
+CUST1217,Joshua Hardy,35,"344 Joshua Stravenue, Williamsberg, FL 62311",Doctor,2024-02-29,Verified,normal
+CUST1218,Kristin Gilbert,64,"9641 Tammie Centers, New Carl, PR 91830",Consultant,2019-04-05,Verified,normal
+CUST1219,Ashley Brown,50,"8858 Bryant Viaduct Suite 340, Port Charleschester, ME 68362",Consultant,2023-12-24,Flagged,normal
+CUST1220,Heather Gross,26,"462 Reid Orchard, Whiteside, WY 05203",Business Owner,2023-12-23,Pending,normal
+CUST1221,Troy Williams,33,"6877 Larry Crest Suite 746, Lake Cindybury, WV 71862",Doctor,2020-12-26,Verified,normal
+CUST1222,Veronica Jacobson,28,"Unit 4867 Box 8427, DPO AA 21942",Engineer,2017-11-11,Pending,normal
+CUST1223,Jennifer Baker,45,"932 Matthews Green, West Emily, GA 82815",Trader,2023-03-17,Pending,normal
+CUST1224,Paula Stevens,45,"07943 Brent Well, Frazierburgh, GA 82200",Engineer,2016-09-26,Pending,normal
+CUST1225,Cheryl Walker,42,"0544 Jason Fort Apt. 842, Shieldsborough, NM 07652",Doctor,2021-12-08,Verified,normal
+CUST1226,Antonio Allen,30,"749 Downs Center, Port Rachel, AR 51055",Doctor,2024-04-07,Verified,normal
+CUST1227,Kathleen Carter,59,"56618 Scott Fall Apt. 290, North Chad, CT 01307",Business Owner,2023-12-31,Verified,normal
+CUST1228,Allen Smith,39,"6106 Timothy Shores Suite 150, Lake Patriciamouth, WA 55091",Retired,2019-04-05,Verified,normal
+CUST1229,Lori Ramsey,27,"79444 Judy Bypass, Gibsonport, PA 89475",Business Owner,2025-03-12,Verified,normal
+CUST1230,Taylor White,37,"84413 Jones Overpass, East Michaelburgh, PR 57422",Business Owner,2024-11-14,Flagged,normal
+CUST1231,Eric Mooney,34,"386 Juan Parkway, Kaufmanmouth, IA 86308",Trader,2019-05-20,Verified,normal
+CUST1232,Jasmine Gonzalez,55,"58707 Weber Inlet Suite 884, Robertton, ND 29046",Retired,2019-04-04,Verified,normal
+CUST1233,Katherine Jackson,61,"04745 Sawyer Mills, Hoburgh, GU 67608",Trader,2016-09-17,Pending,normal
+CUST1234,Todd Knight,41,"9831 Cheryl Flat, South Sheila, NE 16280",Engineer,2019-10-15,Verified,normal
+CUST1235,Shelby Burton,63,"28999 Jeffrey Ferry, Lake Jamesfurt, IN 82561",Consultant,2023-02-27,Verified,normal
+CUST1236,Michael Wilson,35,"99721 Jennifer Bridge, Ryanland, NY 80209",Engineer,2017-01-14,Verified,normal
+CUST1237,Haley Jones DDS,62,"51739 Brown Dam, Lucasstad, ME 09978",Business Owner,2025-03-10,Verified,normal
+CUST1238,Jennifer Stephenson,61,"47480 Matthew Port Apt. 766, North Jessica, MO 63869",Retired,2022-08-17,Pending,normal
+CUST1239,Carol Jones,50,"825 Benjamin Glen Suite 152, New Nicholas, TX 22105",Retired,2021-10-08,Verified,normal
+CUST1240,Keith Morales,29,"33783 Walker Forge, North Stephanie, VT 87129",Consultant,2017-01-17,Verified,normal
+CUST1241,John Wells,31,"277 Nicole Parkway Suite 091, Victorville, MO 30973",Retired,2020-10-21,Verified,normal
+CUST1242,Kyle Woods,63,"91667 Daniel Union Apt. 732, Pricefurt, AL 44965",Business Owner,2017-01-14,Flagged,normal
+CUST1243,Joshua Watts,27,"658 Desiree Estate, Bradfordborough, TN 39221",Engineer,2022-01-02,Flagged,normal
+CUST1244,Megan Morris,52,"Unit 7308 Box 3072, DPO AA 87975",Retired,2020-02-16,Verified,normal
+CUST1245,David Patterson,29,"527 Soto Turnpike, Jamesborough, KS 68964",Consultant,2018-12-20,Verified,normal
+CUST1246,Stuart Armstrong,25,"1631 Connor Forge Suite 059, North Maria, PA 91270",Doctor,2022-11-24,Pending,normal
+CUST1247,Yvette Robinson,31,"PSC 3445, Box 3405, APO AA 30044",Doctor,2016-08-12,Verified,normal
+CUST1248,Derek Thompson,65,"734 Jessica River Apt. 918, Elizabethtown, HI 32163",Doctor,2023-11-27,Verified,normal
+CUST1249,Brent Scott,52,"9654 Lee Falls Apt. 139, Whiteborough, ID 25076",Trader,2024-03-26,Flagged,normal
+CUST1250,Carol Rogers,42,"059 Jillian Falls Suite 726, Danielleburgh, MD 33651",Consultant,2023-10-16,Flagged,normal
+CUST1251,Melissa Johnston,55,"Unit 0360 Box 2655, DPO AE 35406",Doctor,2021-04-16,Pending,normal
+CUST1252,Beth Howard,62,"8698 Solomon Greens, East Johnton, ME 76163",Engineer,2018-10-16,Verified,normal
+CUST1253,Tiffany Zuniga,40,"5686 Linda Pike, Herreraland, VA 16510",Business Owner,2025-05-28,Verified,normal
+CUST1254,Cody Williams,53,"67615 Le Inlet, Riceshire, PW 07750",Trader,2022-06-05,Pending,normal
+CUST1255,John Myers,61,"65399 Katelyn Centers, Meredithville, MI 19552",Consultant,2021-06-18,Pending,normal
+CUST1256,Jeremy Morgan,46,"USCGC Barry, FPO AA 96109",Business Owner,2016-10-31,Pending,normal
+CUST1257,Ronald Herrera,45,"117 Emily Landing Apt. 711, South Shellyburgh, IL 34509",Trader,2021-07-06,Pending,normal
+CUST1258,Samantha Medina,38,"8841 Reese Point, Moralesville, WI 71632",Engineer,2016-08-08,Verified,normal
+CUST1259,Lauren Fernandez,46,"0777 Shannon Trafficway, North Haleytown, MP 29690",Engineer,2021-11-01,Flagged,normal
+CUST1260,Linda Robinson,42,"185 Hatfield Glen, Hernandezbury, MP 79662",Consultant,2019-03-05,Verified,normal
+CUST1261,Brian Patterson,58,"5482 Fox Club Suite 781, North Michael, ID 96266",Trader,2019-03-31,Verified,normal
+CUST1262,Robert Meyer,40,"4324 Brown Streets Apt. 319, South Danielhaven, AK 86361",Retired,2021-09-26,Pending,normal
+CUST1263,Danielle Carpenter,56,"94493 Kimberly Station, Harrisonton, MS 07293",Consultant,2020-09-30,Verified,normal
+CUST1264,Michelle Lewis,55,"30711 Hardy Turnpike Apt. 866, Christinemouth, MD 05103",Retired,2019-08-08,Pending,normal
+CUST1265,Jordan Perez,53,"5648 White Locks, North Vanessabury, RI 88247",Business Owner,2025-06-23,Verified,normal
+CUST1266,Tiffany Thomas,43,"040 Matthew Flats Suite 537, Davisside, ID 63332",Trader,2018-01-25,Pending,normal
+CUST1267,Gregory Pennington,40,"027 Valentine Tunnel, Wardberg, GA 35260",Engineer,2023-08-24,Flagged,normal
+CUST1268,Brent Garza,48,"779 Ellis Prairie Apt. 261, Briggsside, MO 06098",Doctor,2019-05-02,Flagged,normal
+CUST1269,Anna Walter DDS,58,"862 Mary Pine Apt. 958, South Whitney, HI 50174",Engineer,2017-02-09,Pending,normal
+CUST1270,Chase Moore,60,"995 Kimberly Harbor Suite 822, Gonzalezhaven, CT 92389",Engineer,2025-02-28,Verified,normal
+CUST1271,Drew Hoffman,54,"1117 Hector Crossing, West Johnbury, AK 07011",Engineer,2025-01-17,Verified,normal
+CUST1272,Stephen Webster,41,"24542 Smith Drive, South Zacharyland, LA 74292",Trader,2024-08-14,Verified,normal
+CUST1273,Andrea Kelley,37,"0870 Lawrence Light Apt. 667, West Rachel, TX 35652",Engineer,2020-04-23,Verified,normal
+CUST1274,Michael Cole,59,"27130 Diana Wall Apt. 511, Port Victoria, WV 56436",Retired,2023-08-07,Verified,normal
+CUST1275,Michael Mendoza,37,"58846 Robert Route, Hunterville, WY 18290",Trader,2025-04-06,Pending,normal
+CUST1276,Steven Hamilton,42,"86222 Jennifer Camp Apt. 329, Castanedachester, IL 82935",Retired,2019-08-24,Flagged,normal
+CUST1277,Eric Macias,58,"043 Ortiz Path, South Susanborough, NJ 84633",Consultant,2021-11-05,Verified,normal
+CUST1278,Jacqueline Flores,31,"4353 Sara Mill, Farmertown, NC 28283",Trader,2019-07-31,Verified,normal
+CUST1279,James Vasquez,39,"USS Owens, FPO AP 89003",Engineer,2018-03-28,Verified,normal
+CUST1280,Chris Kelly,44,"749 Amanda Walks Suite 689, New Linda, KY 46459",Business Owner,2016-08-31,Flagged,normal
+CUST1281,Laura Maxwell,33,"9187 Johnson Turnpike, West Cherylburgh, NE 93002",Engineer,2016-08-18,Verified,normal
+CUST1282,Julie Vasquez,28,"189 Jessica Springs, Port Matthewberg, CT 85408",Consultant,2016-08-20,Verified,normal
+CUST1283,Vincent Mercer,33,"PSC 0822, Box 1684, APO AA 63631",Retired,2022-12-12,Pending,normal
+CUST1284,Lindsey Vasquez,31,"614 Evans Prairie Suite 220, Port Haley, SD 68214",Business Owner,2021-04-02,Flagged,normal
+CUST1285,Catherine Henderson,43,"129 Lauren Corner Apt. 676, Danieltown, IA 94878",Doctor,2016-07-16,Pending,normal
+CUST1286,Kaylee Robinson,53,"438 Boyd Meadows Suite 499, Adamsstad, UT 33657",Engineer,2020-10-27,Verified,normal
+CUST1287,Veronica Thomas,28,"558 Harrison Village, South Melissamouth, UT 81352",Engineer,2019-05-14,Pending,normal
+CUST1288,Candice Sims,32,"3206 Bradley Views Apt. 078, Johnton, AK 88453",Business Owner,2023-02-13,Pending,normal
+CUST1289,Stephanie Fuller,56,"40827 Williams Causeway, Taylorstad, DE 14748",Business Owner,2017-01-31,Flagged,normal
+CUST1290,Joyce Jones,65,"50455 Kimberly Stravenue, Port Mandyview, NJ 73801",Retired,2023-11-08,Verified,normal
+CUST1291,Christopher Harper,34,"259 Shannon Garden Apt. 142, Ruizfort, HI 54736",Trader,2019-11-19,Flagged,normal
+CUST1292,Courtney Pierce,44,"44924 Avila Spurs Suite 845, West Samantha, GA 04466",Business Owner,2021-02-27,Verified,normal
+CUST1293,Kevin Lopez,32,"594 Amy Burgs, Weeksland, WA 81124",Consultant,2022-06-25,Pending,normal
+CUST1294,Jacqueline Reyes,63,"89941 Evan Ports Apt. 828, Littlemouth, CO 62962",Consultant,2021-05-10,Flagged,normal
+CUST1295,Caroline Delgado,39,"41747 Chad Valleys Apt. 478, North Billymouth, PA 36542",Consultant,2017-05-01,Pending,normal
+CUST1296,Amy Morgan,53,"3618 Meagan Parkways, South Patrick, MP 58489",Doctor,2017-07-05,Verified,normal
+CUST1297,Amy Mcgrath,62,"PSC 4955, Box 1217, APO AP 98450",Doctor,2019-04-25,Verified,normal
+CUST1298,Angela Russell,61,"1439 Gonzales Orchard Suite 320, Hernandezchester, PR 30173",Consultant,2024-06-11,Verified,normal
+CUST1299,Melanie Norman,64,"50091 Murphy Pass, Carpenterburgh, FL 62612",Retired,2021-11-05,Verified,normal
+CUST1300,Jessica Cervantes,38,"8789 Espinoza Prairie Suite 281, West Gail, DC 64705",Retired,2023-08-07,Verified,normal
+CUST1301,Madison Joseph,41,"59121 Long Springs Suite 205, Matthewview, WA 30362",Retired,2021-05-25,Verified,normal
+CUST1302,Julie Wright,35,"1369 Conway Pass, Jamiemouth, PR 77090",Trader,2020-11-23,Verified,normal
+CUST1303,Mark Collins,60,"3015 Bradley Oval, Terriburgh, PA 72590",Business Owner,2018-04-26,Verified,normal
+CUST1304,Samantha Gonzalez,25,"409 Rebecca Club, East Michaelland, MP 31989",Doctor,2023-02-17,Pending,normal
+CUST1305,Judith Figueroa,63,"Unit 3990 Box 2385, DPO AE 98505",Doctor,2018-12-31,Verified,normal
+CUST1306,Christy Caldwell,27,"79322 Williams Glen, New Brianhaven, KY 41145",Trader,2018-12-11,Verified,normal
+CUST1307,Dustin Mayer,43,"USCGC Greene, FPO AA 71795",Retired,2020-12-10,Pending,normal
+CUST1308,Patrick Jimenez,29,"78968 Hernandez Fork, Walterhaven, MP 77043",Retired,2020-03-14,Verified,normal
+CUST1309,Kelsey Green,41,"9250 Kennedy Terrace Apt. 454, New Caleb, NH 37030",Retired,2025-04-14,Flagged,normal
+CUST1310,Kim Davis,37,"9815 Moon Square Apt. 761, Jasonville, MD 15274",Doctor,2020-12-05,Verified,normal
+CUST1311,Bonnie Vincent,59,"9130 Garrett Land, Danielview, DC 96504",Trader,2019-05-26,Verified,normal
+CUST1312,Denise Russell,42,"926 Tamara Dam Suite 703, Pooletown, OH 26991",Trader,2019-04-15,Verified,normal
+CUST1313,Kenneth Smith,28,"611 Barbara Ridges, Lynchport, PW 67903",Trader,2020-06-03,Verified,normal
+CUST1314,Joseph Anderson,63,"967 Moreno Rue, South John, MP 43728",Retired,2020-10-04,Flagged,normal
+CUST1315,John Cruz,43,"USCGC Lozano, FPO AE 37851",Doctor,2023-03-14,Verified,normal
+CUST1316,Danielle Bennett,54,"5226 Ronald Gateway, Port Kelly, PW 75026",Retired,2020-05-13,Verified,normal
+CUST1317,Jennifer Martinez,50,"8941 Emily Port, Marquezstad, NC 99477",Engineer,2018-10-12,Flagged,normal
+CUST1318,Blake Wilson,59,"USS Rodriguez, FPO AA 37240",Doctor,2020-10-14,Pending,normal
+CUST1319,Lisa Klein,30,"58330 Phillips Well Suite 208, West Beverlyberg, AL 09959",Consultant,2017-12-24,Verified,normal
+CUST1320,Mary Robbins,52,"6518 Kevin Isle, Greggfort, AS 26570",Retired,2019-05-27,Verified,normal
+CUST1321,Michael Davis,63,"USNS Lamb, FPO AA 83599",Engineer,2017-01-05,Verified,normal
+CUST1322,Alyssa Rios,30,"PSC 5263, Box 5257, APO AE 55931",Trader,2024-04-05,Flagged,normal
+CUST1323,Holly Scott,62,"4137 Sanchez Turnpike Apt. 721, Lake Richardfort, GU 01133",Business Owner,2022-09-26,Verified,normal
+CUST1324,Stephanie Guerrero,61,"339 Aguirre Cliff, Griffithfurt, CT 55646",Business Owner,2017-01-17,Verified,normal
+CUST1325,David Warner,55,"3161 Ashley Point Suite 140, New Sarahmouth, IA 04043",Consultant,2025-02-01,Pending,normal
+CUST1326,Susan Foster,42,"05968 Hinton Greens Suite 431, Meyerside, NE 81947",Trader,2022-10-16,Flagged,normal
+CUST1327,Jerry Holmes,52,"60122 Myers Haven Apt. 061, Lake Scottville, MN 55628",Retired,2021-04-10,Pending,normal
+CUST1328,Tanya Rivera,30,"Unit 3443 Box 5173, DPO AE 12388",Doctor,2021-03-08,Verified,normal
+CUST1329,Courtney Larson,51,"546 Danielle Station, Lake Joshuachester, VA 19510",Engineer,2024-04-13,Verified,normal
+CUST1330,Roger Wyatt,31,"81309 Yates Plains, Perkinschester, DE 37908",Trader,2019-12-17,Verified,normal
+CUST1331,Daniel White,51,"42125 Bryan Landing Suite 647, North Andrew, AK 24510",Retired,2018-05-26,Pending,normal
+CUST1332,Michael Martinez,43,"65982 Clark Lane, Sanchezmouth, MP 32051",Retired,2023-05-26,Pending,normal
+CUST1333,Caleb Maddox,60,"9417 Christina Ville, East Brooke, FL 66197",Business Owner,2018-08-09,Pending,normal
+CUST1334,Jesse Clay,30,"PSC 4788, Box 6644, APO AP 49222",Engineer,2024-03-28,Verified,normal
+CUST1335,Jacqueline Campbell,45,"917 Sandoval Forges, Ashleyfurt, VA 77070",Business Owner,2016-10-31,Pending,normal
+CUST1336,Seth Smith,57,"9367 Michael Plains, West Stephanie, KS 69362",Business Owner,2024-02-14,Flagged,normal
+CUST1337,Phillip Edwards,54,"USS Duncan, FPO AA 66589",Doctor,2021-03-06,Verified,normal
+CUST1338,Michelle Padilla,37,"982 Rush Knolls Apt. 197, North Ashley, OK 83757",Consultant,2018-03-29,Verified,normal
+CUST1339,Ruben Willis,64,"89832 Cabrera Station Suite 786, West Louisside, NY 84695",Doctor,2019-11-11,Pending,normal
+CUST1340,Albert Patrick,28,"7576 Jensen Burg, Katieville, GU 31418",Trader,2017-04-25,Verified,normal
+CUST1341,Kathryn Smith,60,"85712 Rachel Pike Apt. 059, Mitchellton, WY 10919",Trader,2022-08-02,Verified,normal
+CUST1342,Kim Graham,53,"6592 Beltran Inlet Apt. 584, Katieshire, PA 53210",Retired,2018-02-10,Pending,normal
+CUST1343,Cynthia Wood,32,"620 Deborah Forge Suite 118, Port Jeremyfort, AK 99860",Business Owner,2019-09-16,Flagged,normal
+CUST1344,Allen Potts,40,"941 Riggs River, Shawnatown, DC 65371",Retired,2019-03-03,Verified,normal
+CUST1345,Karl Ayers,44,"PSC 5886, Box 0015, APO AA 55126",Consultant,2016-10-30,Verified,normal
+CUST1346,Johnathan Phillips,60,"PSC 7188, Box 0360, APO AE 76244",Doctor,2021-09-01,Verified,normal
+CUST1347,Robert Page,39,"9670 Ayers Rapids, Lake Julie, ND 56811",Business Owner,2020-10-11,Pending,normal
+CUST1348,Amanda Fischer,32,"03428 Mccann Squares Apt. 957, New Tony, NH 35882",Retired,2017-08-18,Verified,normal
+CUST1349,Ruben Weaver,56,"USNS Crawford, FPO AA 88318",Retired,2024-07-04,Verified,normal
+CUST1350,Jacqueline Lowe,57,"1569 Harris Point Apt. 037, Harrismouth, WY 72459",Retired,2018-05-12,Verified,normal
+CUST1351,Matthew Banks,51,"72768 Aguilar Gardens, West Julieville, MN 58117",Doctor,2020-10-28,Pending,normal
+CUST1352,Tammy Medina,40,"328 Charles Haven Suite 773, Julietown, CA 41723",Doctor,2022-08-20,Flagged,normal
+CUST1353,Brandon Whitehead,34,"5703 Penny Loaf, East Scott, AL 90308",Doctor,2017-09-02,Verified,normal
+CUST1354,Bruce Evans,63,"PSC 8024, Box 6461, APO AP 86173",Consultant,2024-10-23,Verified,normal
+CUST1355,Richard Knight,29,"2104 Archer Inlet Apt. 308, Floreshaven, MA 06393",Engineer,2021-02-06,Pending,normal
+CUST1356,Michael Boyer,46,"25794 Lauren Trace, New Dustin, MD 75051",Consultant,2018-08-31,Verified,normal
+CUST1357,Dana Floyd,25,"07346 Kristina Plains Apt. 994, Hudsonborough, NE 63576",Engineer,2018-02-05,Verified,normal
+CUST1358,John Davis,62,"PSC 8812, Box 4717, APO AA 48209",Consultant,2018-12-28,Pending,normal
+CUST1359,Sara Cunningham,34,"1260 Baxter Manor, Brandonmouth, AZ 56241",Doctor,2019-12-06,Flagged,normal
+CUST1360,Michael Hickman,55,"14989 Felicia Squares, Leeburgh, IL 68703",Engineer,2019-11-30,Verified,normal
+CUST1361,Jeffery Hanson,60,"0093 Stone Forge Apt. 550, Lake Taylorshire, CO 94687",Consultant,2016-09-10,Pending,normal
+CUST1362,Andrea Reid,54,"2563 Thomas Cliff, Turnerville, AR 94335",Engineer,2021-04-21,Verified,normal
+CUST1363,Carlos Barker,40,"556 Kathleen Cape Suite 684, Morrisontown, OH 65180",Consultant,2017-08-11,Pending,normal
+CUST1364,Kathleen Alexander,39,"3102 Kane Ford Suite 100, Amandahaven, PR 18553",Doctor,2020-02-23,Verified,normal
+CUST1365,Stuart Hardin,45,"098 Johnson Walk, Millerhaven, MA 37433",Retired,2023-08-03,Pending,normal
+CUST1366,David Olson,49,"USCGC Tucker, FPO AA 49332",Doctor,2020-08-25,Verified,normal
+CUST1367,Samuel Williams,56,"6921 Leslie Shoals, North Kristina, DE 47951",Business Owner,2025-01-28,Verified,normal
+CUST1368,Jeff Aguilar,57,"USNS Nelson, FPO AE 95959",Consultant,2023-02-12,Verified,normal
+CUST1369,Jennifer Rodriguez,31,"9360 Sean Loaf, Matthewland, GA 55248",Doctor,2024-04-10,Verified,normal
+CUST1370,Emily Reid,58,"4482 Washington Forge, Cassandrabury, SD 46127",Doctor,2019-02-07,Verified,normal
+CUST1371,Darius Anthony,34,"3368 Timothy Fords Apt. 317, East Justinburgh, CA 76373",Doctor,2021-01-08,Verified,normal
+CUST1372,Daniel Brewer,29,"341 Anne Valley Suite 878, Port Laura, KS 92293",Doctor,2025-02-06,Verified,normal
+CUST1373,Melissa Powell,46,"Unit 0399 Box 1359, DPO AA 37870",Consultant,2024-01-18,Pending,normal
+CUST1374,Matthew Gillespie,30,"42334 Holland Land Apt. 045, Lake Christopherfurt, IN 23833",Engineer,2024-02-23,Flagged,normal
+CUST1375,James Franklin,49,"042 William Gardens, Kathymouth, NV 75435",Engineer,2019-04-07,Pending,normal
+CUST1376,Joseph Smith,59,"7113 Brenda Summit, East Anthonychester, AL 75529",Business Owner,2024-01-13,Flagged,normal
+CUST1377,Amy Medina,29,"64387 Jones Streets, South Sarah, TX 74095",Trader,2017-06-07,Verified,normal
+CUST1378,Olivia Perry,39,"28817 Park Plaza Suite 493, Jonesmouth, AS 77843",Retired,2024-04-02,Verified,normal
+CUST1379,Darlene Tapia,52,"14052 Kimberly Prairie Suite 826, New Emilyville, IA 54051",Business Owner,2016-07-07,Verified,normal
+CUST1380,David Green,53,"4116 Cook Shore, South Ericbury, FM 81585",Trader,2019-10-30,Verified,normal
+CUST1381,Emily Sweeney,26,"PSC 0837, Box 7615, APO AP 17578",Business Owner,2016-09-15,Verified,normal
+CUST1382,Vanessa Nelson,28,"11053 Chang Ferry, Gilbertshire, AR 07659",Engineer,2023-09-07,Verified,normal
+CUST1383,Linda Ruiz,48,"PSC 3432, Box 9210, APO AE 69756",Doctor,2025-03-05,Verified,normal
+CUST1384,David Meyer,40,"49453 Mccormick Wall, New Carl, NV 70104",Consultant,2019-03-24,Pending,normal
+CUST1385,Dylan Mcclure,61,"51686 Dean Inlet Suite 889, Rachelport, VI 44574",Retired,2025-01-05,Verified,normal
+CUST1386,Peter Miller,35,"4727 Kim Meadow, West Bethtown, OR 68397",Trader,2020-12-02,Verified,normal
+CUST1387,Autumn Mcmahon,64,"14259 Rebecca Summit, South Saraport, NM 82018",Doctor,2017-11-15,Flagged,normal
+CUST1388,Summer Silva,40,"768 Garcia Terrace Suite 999, Coxborough, MT 01689",Doctor,2022-02-15,Flagged,normal
+CUST1389,Catherine Scott,34,"52620 Dana Island Apt. 099, Harrishaven, RI 76602",Trader,2021-08-29,Pending,normal
+CUST1390,Donald Cook,65,"0691 Blair Station, Hernandezfurt, AS 76857",Engineer,2022-05-29,Pending,normal
+CUST1391,Mr. Benjamin Hanson MD,41,"649 Graham Cliffs, South Vickie, WA 69664",Retired,2020-07-09,Verified,normal
+CUST1392,Ashley Miller,54,"Unit 4629 Box 5177, DPO AP 44988",Engineer,2025-05-09,Flagged,normal
+CUST1393,Juan Baker,35,"PSC 5310, Box 7921, APO AE 63705",Business Owner,2020-03-01,Pending,normal
+CUST1394,Joyce Sherman,47,"PSC 2963, Box 4515, APO AE 40330",Consultant,2023-02-15,Verified,normal
+CUST1395,Shawna Hopkins,65,"731 Jeanette Streets, Dakotachester, TX 65962",Doctor,2020-11-17,Verified,normal
+CUST1396,Rebecca Turner,54,"25799 Young Forge Suite 586, North Matthew, DC 14959",Engineer,2016-10-02,Verified,normal
+CUST1397,Scott Bradley,49,"824 Henry Centers Suite 112, New Deniseport, SC 72077",Doctor,2019-10-24,Verified,normal
+CUST1398,Steven Mullen,40,"79760 Jones Pike Apt. 541, Juanshire, NY 11334",Doctor,2023-03-25,Flagged,normal
+CUST1399,George Cohen,47,"USNV Davenport, FPO AE 01233",Consultant,2016-11-26,Verified,normal
+CUST1400,Regina Morgan,43,"8922 Carr Park Suite 005, New Christopher, RI 92722",Business Owner,2019-11-14,Pending,normal
+CUST1401,Ashley Crosby,42,"107 Moreno Land Suite 630, New Jenniferstad, NM 94089",Business Owner,2019-02-27,Flagged,normal
+CUST1402,Barbara Nelson,28,"27155 Marie Orchard, Port John, OK 84891",Consultant,2019-06-25,Pending,normal
+CUST1403,Katie Barton,43,"37482 Renee Street, Richardton, MT 70469",Trader,2021-06-11,Flagged,normal
+CUST1404,Darren Craig,47,"41916 Harris Mountain Apt. 389, Sharonburgh, IA 12120",Trader,2016-12-18,Verified,normal
+CUST1405,Tracey Reynolds,64,"20973 Scott Extensions, Michaelstad, LA 19931",Engineer,2021-04-03,Verified,normal
+CUST1406,Elizabeth Gomez,65,"62967 Moore Ranch, North Angela, CA 47083",Business Owner,2020-01-08,Verified,normal
+CUST1407,Nichole Black,44,"899 Green Flat, Williamsmouth, MD 21251",Doctor,2024-12-08,Verified,normal
+CUST1408,Lauren Gonzales,62,"Unit 0751 Box 9971, DPO AA 51962",Engineer,2022-07-23,Verified,normal
+CUST1409,Renee Bryant,30,"32866 Lauren Views, Port Jamesville, UT 72322",Engineer,2018-11-10,Verified,normal
+CUST1410,Robert Kelly,51,"2408 Aguirre Stravenue Apt. 511, Joeville, MI 22880",Trader,2020-05-07,Verified,normal
+CUST1411,Marissa Levine,33,"047 Cassandra Hollow, Thomasmouth, NV 08884",Consultant,2023-05-05,Verified,normal
+CUST1412,Tracy Mcpherson,58,"048 Carson Camp Apt. 553, Port Jessica, KS 81625",Consultant,2022-12-27,Verified,normal
+CUST1413,David Morrow,35,"0968 Jaclyn Spring Apt. 814, East Tracy, NM 86274",Engineer,2022-08-24,Pending,normal
+CUST1414,Kelly Reyes,43,"0506 Heidi Trail Suite 807, New Dawnville, ID 07473",Retired,2017-09-22,Verified,normal
+CUST1415,Jamie Barnes,32,"413 William Falls Suite 206, East Scottchester, WI 02441",Doctor,2017-03-03,Verified,normal
+CUST1416,Shannon Price,34,"883 Hardy Mount Suite 774, Maciasshire, KS 46895",Trader,2017-03-21,Pending,normal
+CUST1417,Jeremiah Mcknight,60,"8399 Daniel Bridge Apt. 557, New Bryan, CT 57438",Engineer,2018-11-28,Verified,normal
+CUST1418,Ian Scott,50,"Unit 2797 Box 5390, DPO AA 24612",Business Owner,2019-01-19,Verified,normal
+CUST1419,Mary Hood,59,"4401 Samantha Field Apt. 856, Tashaborough, NC 09434",Business Owner,2023-08-03,Pending,normal
+CUST1420,Robert James,48,"24337 Jerry Garden Suite 938, Joshuamouth, CT 84663",Retired,2024-06-01,Verified,normal
+CUST1421,Angela Gonzalez,62,"3576 Peter Harbors, Andreatown, PR 70298",Doctor,2020-11-05,Verified,normal
+CUST1422,Yesenia Cannon,31,"6502 Dennis Orchard Suite 205, Lewisbury, TX 67163",Retired,2018-05-12,Verified,normal
+CUST1423,Shawn Hurley,55,"45976 Tanya Stream Suite 570, South Paulport, NM 59689",Business Owner,2024-05-31,Flagged,normal
+CUST1424,Maria Nguyen,60,"USNS King, FPO AE 83582",Engineer,2024-05-15,Flagged,normal
+CUST1425,Adam Norman,39,"17658 Davis Mountains Suite 374, Lake Clifford, ND 17925",Retired,2024-03-18,Verified,normal
+CUST1426,Deanna Bowman,65,"1322 Joseph Ways, Hodgesstad, DE 32768",Doctor,2019-06-30,Verified,normal
+CUST1427,Sierra Newton,51,"2012 Sarah Locks, North Bryantown, WA 91322",Business Owner,2023-07-27,Verified,normal
+CUST1428,Jason Cox,27,"PSC 0951, Box 9910, APO AP 76248",Business Owner,2018-10-19,Verified,normal
+CUST1429,Caroline Hunter,56,"59369 Taylor Harbors Suite 961, Port Paulborough, NJ 42836",Business Owner,2018-11-17,Verified,normal
+CUST1430,Jesse Massey,40,"2377 Krueger Lake, Jeanland, WI 10130",Consultant,2024-12-12,Verified,normal
+CUST1431,Judy Fisher,49,"438 Reynolds Brook, Benitezhaven, AR 39482",Doctor,2019-08-10,Verified,normal
+CUST1432,Felicia Adkins,59,"694 Ryan Stravenue Suite 187, Veronicaview, TN 63350",Doctor,2019-10-05,Flagged,normal
+CUST1433,Ann King,34,"448 Jackson Harbor Suite 812, North Elizabethmouth, WY 34351",Doctor,2017-07-03,Verified,normal
+CUST1434,Amanda Phillips,56,"9875 Heather Prairie Apt. 093, Port Thomastown, IL 28730",Consultant,2023-10-18,Pending,normal
+CUST1435,Jennifer Adams,42,"9401 Sierra Ports Suite 081, East Austinfurt, OK 50873",Business Owner,2024-04-03,Verified,normal
+CUST1436,Andrew Jones,38,"92613 Aguirre Roads, Tannerbury, HI 78833",Doctor,2020-05-13,Pending,normal
+CUST1437,David Mann,40,"8853 Chad Forest, Lucasstad, UT 10990",Engineer,2022-09-27,Verified,normal
+CUST1438,Jodi Hamilton,48,"53563 Maria Fall Apt. 966, Lake Melanieland, NM 50772",Consultant,2025-03-06,Verified,normal
+CUST1439,Kenneth Fleming,28,"215 Greer Street, South Mariemouth, HI 90463",Doctor,2018-06-17,Verified,normal
+CUST1440,Kathy Welch,37,"8642 Tonya Motorway Apt. 130, Shannonshire, AK 61942",Business Owner,2017-07-21,Pending,normal
+CUST1441,Amanda Zhang,30,"USNS Wolf, FPO AA 39403",Retired,2023-03-07,Verified,normal
+CUST1442,Donna Hoffman,65,"05810 Moon Islands, Port Margaretborough, GU 54923",Consultant,2021-12-31,Verified,normal
+CUST1443,Samantha Gonzalez,28,"23320 Vasquez Court Apt. 882, Jessicaland, VT 85044",Engineer,2023-07-05,Verified,normal
+CUST1444,Tasha Lawson,33,"16561 David Islands Apt. 083, New Roberthaven, DE 89326",Consultant,2016-09-30,Verified,normal
+CUST1445,Destiny Rich,29,"USCGC Moreno, FPO AP 29977",Consultant,2024-08-07,Verified,normal
+CUST1446,Jeff Bowen,62,"28119 Wilson Mountains Suite 373, New Dustin, MP 29473",Trader,2025-03-18,Verified,normal
+CUST1447,Christina Flores,46,"94106 Pena Falls Apt. 046, Isaiahshire, WA 64973",Trader,2020-10-15,Flagged,normal
+CUST1448,Shawn Mcguire,25,"125 Melissa Roads Apt. 099, New Kathytown, CA 46439",Engineer,2021-12-12,Verified,normal
+CUST1449,Meredith Jones,33,"478 Jorge Expressway, Smithberg, WI 97001",Consultant,2020-04-28,Verified,normal
+CUST1450,Michael Molina,36,"540 Robertson Squares Apt. 731, Lisaburgh, NM 62764",Business Owner,2024-09-15,Verified,normal
+CUST1451,Robert Webb,33,"USS Obrien, FPO AE 70325",Business Owner,2018-08-15,Verified,normal
+CUST1452,Joshua Mueller,40,"7710 Karen Springs, Snyderhaven, NJ 66524",Consultant,2023-08-20,Verified,normal
+CUST1453,Michael Robinson,26,"177 Allison Radial, South Lauriestad, WV 19045",Trader,2017-02-02,Verified,normal
+CUST1454,Taylor Bennett,28,"105 Larson Ramp, West Charles, WI 75088",Trader,2021-10-23,Pending,normal
+CUST1455,Jennifer Moran,58,"809 Reynolds Ways, Sarahtown, MA 63355",Business Owner,2020-11-19,Verified,normal
+CUST1456,Emily Anderson,55,"6565 Krystal Valleys, North Peterland, KS 71758",Doctor,2017-07-09,Verified,normal
+CUST1457,Philip Mcconnell,57,"528 Benjamin Burg Suite 770, North Diana, CO 37383",Consultant,2022-07-15,Verified,normal
+CUST1458,Charles Schmidt,53,"USNV Flynn, FPO AE 81962",Consultant,2020-11-27,Verified,normal
+CUST1459,Morgan Thomas,64,"3613 Derek Wall, New Charlesberg, MO 25374",Business Owner,2016-10-23,Flagged,normal
+CUST1460,Brian Turner PhD,44,"72966 Waters Valleys, South Richard, ME 88249",Doctor,2021-01-30,Verified,normal
+CUST1461,Ashley Johnson,28,"470 Kirk Ridges, West Michaelfort, NJ 76756",Doctor,2018-12-24,Pending,normal
+CUST1462,Michelle Knight,52,"USNS Gardner, FPO AA 62043",Retired,2016-09-20,Verified,normal
+CUST1463,Jane Kelly,56,"15443 Brown Ferry, East Christopher, ME 12606",Retired,2017-07-03,Pending,normal
+CUST1464,Kaitlyn Ortega,29,"4649 Massey View Apt. 865, West Michelleview, DE 70389",Business Owner,2019-03-11,Verified,normal
+CUST1465,Mark Hughes,63,"758 Shawn Mount Suite 892, Washingtonstad, SC 21436",Trader,2024-12-13,Verified,normal
+CUST1466,Gina Martin,33,"6711 Patrick Village Suite 605, Port Michaelaland, OH 81975",Engineer,2017-12-23,Flagged,normal
+CUST1467,Anthony Matthews,65,"USCGC Gibson, FPO AE 96709",Consultant,2025-01-29,Flagged,normal
+CUST1468,Michele Sandoval,45,"571 Stephanie Streets, Port Sheila, SD 44272",Doctor,2017-11-14,Flagged,normal
+CUST1469,Janet Shaw,58,"92235 Jeffrey Walk, Kennethfurt, MS 22780",Engineer,2023-08-29,Pending,normal
+CUST1470,Anne Freeman,57,"Unit 1446 Box 5748, DPO AE 69002",Consultant,2024-03-19,Pending,normal
+CUST1471,Felicia Campbell,31,"1632 Schroeder Mission Apt. 598, New Lisa, MA 70773",Retired,2022-12-23,Verified,normal
+CUST1472,Melanie Soto,60,"3523 David Expressway Apt. 299, East Ericland, PA 99147",Retired,2020-05-20,Verified,normal
+CUST1473,Melissa Cook,52,"69825 Griffin Forks, Lake Micheleborough, UT 34674",Doctor,2016-12-01,Verified,normal
+CUST1474,Marie Meyer,51,"2145 Gina Court Apt. 236, Khanville, AS 37939",Engineer,2018-11-16,Pending,normal
+CUST1475,Angelica Porter,50,"417 Pugh Locks Apt. 454, East Sarah, TN 65834",Doctor,2023-10-12,Verified,normal
+CUST1476,Emily Murray,45,"80598 Griffin Ridges Suite 966, Crosston, FM 70008",Doctor,2018-03-30,Verified,normal
+CUST1477,Tiffany Webb,41,"57482 Justin Fields, West Kevinville, FM 79381",Engineer,2022-01-16,Verified,normal
+CUST1478,Lauren Young,55,"74525 Martinez Lane, West Juliefurt, OK 90114",Business Owner,2019-01-12,Verified,normal
+CUST1479,April Smith,30,"528 Beck Haven Apt. 398, Denisestad, WY 33798",Business Owner,2016-10-01,Pending,normal
+CUST1480,Lisa Walker,31,"21392 Patricia Center Suite 890, Mcphersonville, PW 38947",Retired,2024-02-18,Verified,normal
+CUST1481,Juan Arroyo,33,"900 Tammy Ports Suite 093, North Daniel, IN 38568",Consultant,2023-09-17,Verified,normal
+CUST1482,Teresa Townsend,62,"PSC 0228, Box 2574, APO AP 10039",Consultant,2023-06-08,Flagged,normal
+CUST1483,Angelica Mcdowell,46,"USCGC Miller, FPO AE 64393",Retired,2025-01-26,Verified,normal
+CUST1484,John Olson,51,"7156 Harvey Fields, New Manuel, AZ 56747",Engineer,2017-11-08,Pending,normal
+CUST1485,Mr. Zachary Miller,28,"40654 Moon Roads, Lake Bobby, CT 94035",Engineer,2021-11-11,Flagged,normal
+CUST1486,Julie Johnson,44,"6309 Austin Vista Apt. 649, Lake Amberside, MN 86835",Engineer,2025-05-23,Verified,normal
+CUST1487,Susan Mckay,61,"02767 Hill Passage Apt. 438, West Meganchester, ME 15337",Consultant,2019-01-23,Verified,normal
+CUST1488,Megan Shelton,34,"5732 Brown Cliffs, South Marcus, NJ 41706",Retired,2020-06-05,Pending,normal
+CUST1489,Curtis Carter,39,"705 Wright Cliffs Suite 701, Currybury, VI 35810",Business Owner,2017-03-14,Verified,normal
+CUST1490,Karen Stewart,60,"8665 Jacqueline Drive Apt. 483, South Kathy, MN 34345",Engineer,2018-01-10,Verified,normal
+CUST1491,Randy Williams Jr.,42,"82332 Marshall Crossroad Suite 247, Wardmouth, NY 63980",Consultant,2019-06-08,Verified,normal
+CUST1492,Ryan Ortiz,52,"6823 Herrera Land Suite 096, Melissaberg, CO 35629",Consultant,2024-06-10,Flagged,normal
+CUST1493,Jonathan Bush,64,"54647 Hobbs Divide, East Danielle, HI 93604",Retired,2017-08-08,Flagged,normal
+CUST1494,Joshua Torres,26,"973 Huffman Mountains Apt. 149, Johnsonfort, LA 28390",Consultant,2019-05-17,Verified,normal
+CUST1495,Ryan Moss,26,"USCGC Castaneda, FPO AP 38197",Trader,2022-04-05,Verified,normal
+CUST1496,Gary Cole,44,"6649 Barbara Well, Baileyborough, WA 10921",Engineer,2017-04-24,Verified,normal
+CUST1497,David Horton,25,"9630 Lindsey Drives Apt. 898, Hugheschester, MT 31205",Trader,2017-10-18,Verified,normal
+CUST1498,Anthony Garcia,61,"PSC 3247, Box 0888, APO AE 81879",Retired,2024-12-06,Pending,normal
+CUST1499,Scott Pruitt,29,"Unit 5963 Box 8545, DPO AP 79139",Trader,2017-08-23,Verified,normal

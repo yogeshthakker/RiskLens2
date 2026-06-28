@@ -1,0 +1,14 @@
+alert_id,triggered_on,account_flagged,reason,alert_date,status
+ALT_TXN_SPIKE_0,TXN_SPIKE_0,ACC3346,Transaction volume spike,2024-11-01,Open
+ALT_TXN_SPIKE_1,TXN_SPIKE_1,ACC3346,Unusual international transfer,2024-11-02,Open
+ALT_TXN_SPIKE_2,TXN_SPIKE_2,ACC3346,Unusual international transfer,2024-11-03,Under Review
+ALT_TXN_SPIKE_3,TXN_SPIKE_3,ACC3346,Unusual international transfer,2024-11-04,Under Review
+ALT_TXN_SPIKE_4,TXN_SPIKE_4,ACC3346,Circular money flow detected,2024-11-05,Open
+ALT_TXN_SPIKE_5,TXN_SPIKE_5,ACC3346,High value cash transaction,2024-11-06,Open
+ALT_TXN_SPIKE_6,TXN_SPIKE_6,ACC3346,High value cash transaction,2024-11-07,Closed
+ALT_TXN_SPIKE_7,TXN_SPIKE_7,ACC3346,Circular money flow detected,2024-11-08,Open
+ALT_TXN_SPIKE_8,TXN_SPIKE_8,ACC3346,Transaction volume spike,2024-11-09,Closed
+ALT_TXN_SPIKE_9,TXN_SPIKE_9,ACC3346,Circular money flow detected,2024-11-10,Open
+ALT_TXN_CIRCLE_0,TXN_CIRCLE_0,ACC3797,Unusual international transfer,2024-10-15,Under Review
+ALT_TXN_CIRCLE_1,TXN_CIRCLE_1,ACC3690,Unusual international transfer,2024-10-15,Closed
+ALT_TXN_CIRCLE_2,TXN_CIRCLE_2,ACC3184,Unusual international transfer,2024-10-15,Under Review

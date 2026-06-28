@@ -1,0 +1,101 @@
+company_id,company_name,registration_number,industry,director_customer_id,director_name,incorporated_date,country
+COMP2000,"Parker, Gordon and Johnson",REG-53911,Import/Export,CUST1483,Angelica Mcdowell,2024-04-03,British Virgin Islands
+COMP2001,Mcfarland-Vaughn,REG-88410,IT Services,CUST1426,Deanna Bowman,2021-12-09,UAE
+COMP2002,Bryant Group,REG-95793,Manufacturing,CUST1017,Brad Ward,2024-07-04,Singapore
+COMP2003,"Richardson, Ray and Gibson",REG-12746,Manufacturing,CUST1151,Connie Hardy,2023-09-30,Germany
+COMP2004,"Shaw, Lowery and Bailey",REG-19130,Real Estate,CUST1381,Emily Sweeney,2021-04-21,Germany
+COMP2005,"Lowe, Byrd and Garcia",REG-22982,Consulting,CUST1244,Megan Morris,2024-09-17,British Virgin Islands
+COMP2006,Clark-Miller,REG-33277,Consulting,CUST1068,Matthew Johnson,2022-09-03,Cayman Islands
+COMP2007,White LLC,REG-59209,IT Services,CUST1408,Lauren Gonzales,2018-11-15,India
+COMP2008,Oconnell LLC,REG-36308,Import/Export,CUST1219,Ashley Brown,2024-05-23,UAE
+COMP2009,Pace and Sons,REG-99579,Real Estate,CUST1264,Michelle Lewis,2024-01-15,Cayman Islands
+COMP2010,Flores-Garcia,REG-14033,Import/Export,CUST1038,Betty Park,2021-01-06,British Virgin Islands
+COMP2011,"Kelly, Franco and Thompson",REG-81052,Import/Export,CUST1379,Darlene Tapia,2020-01-29,Germany
+COMP2012,Smith Ltd,REG-44206,Manufacturing,CUST1116,Julie Fisher,2021-07-20,British Virgin Islands
+COMP2013,Brown and Sons,REG-08576,Manufacturing,CUST1279,James Vasquez,2019-02-08,Singapore
+COMP2014,"Stephens, Rivera and Jones",REG-92476,IT Services,CUST1335,Jacqueline Campbell,2019-03-20,Singapore
+COMP2015,"Goodwin, Harper and Vargas",REG-14738,Manufacturing,CUST1145,Wyatt Mckee,2024-03-04,Germany
+COMP2016,Randolph-Russo,REG-69369,Real Estate,CUST1052,Paige Gonzalez,2021-07-14,Cayman Islands
+COMP2017,Ryan PLC,REG-48150,Import/Export,CUST1081,Diana Barnes,2024-06-25,Germany
+COMP2018,Johnson-Evans,REG-32891,Manufacturing,CUST1136,Jennifer Mcintosh,2023-02-19,India
+COMP2019,Doyle LLC,REG-14526,Consulting,CUST1346,Johnathan Phillips,2021-12-01,British Virgin Islands
+COMP2020,"Byrd, Cooley and Martin",REG-60201,Trading,CUST1197,Carla Burch,2018-10-22,Cayman Islands
+COMP2021,"Perez, Riley and Harris",REG-75321,Manufacturing,CUST1276,Steven Hamilton,2023-01-25,Cayman Islands
+COMP2022,"Hopkins, Parsons and Cooper",REG-38276,Trading,CUST1094,Samantha Steele,2021-03-10,Germany
+COMP2023,Lopez-Hunt,REG-74292,Import/Export,CUST1431,Judy Fisher,2019-05-16,UAE
+COMP2024,Barajas LLC,REG-14457,Manufacturing,CUST1350,Jacqueline Lowe,2019-09-07,Cayman Islands
+COMP2025,Garcia-Ball,REG-75391,Import/Export,CUST1218,Kristin Gilbert,2024-03-22,India
+COMP2026,"Wilson, Boone and Williams",REG-89410,Real Estate,CUST1408,Lauren Gonzales,2021-07-03,Germany
+COMP2027,Wilkinson-Carlson,REG-70791,Real Estate,CUST1114,Chad Carlson,2021-10-10,UAE
+COMP2028,Mcgee and Sons,REG-19215,Consulting,CUST1336,Seth Smith,2025-02-19,Germany
+COMP2029,Mcintosh PLC,REG-49118,Consulting,CUST1196,Steven Smith,2024-11-20,India
+COMP2030,Owens Ltd,REG-87364,Import/Export,CUST1355,Richard Knight,2023-05-10,Singapore
+COMP2031,Faulkner-Kennedy,REG-95784,Trading,CUST1077,Ricky Strickland,2023-07-12,Singapore
+COMP2032,"Gallagher, Santos and Anthony",REG-64248,Real Estate,CUST1345,Karl Ayers,2023-11-30,UAE
+COMP2033,"Mitchell, Webster and Anderson",REG-37265,Manufacturing,CUST1044,Edward Griffin,2021-08-22,Cayman Islands
+COMP2034,"Harris, Ortega and Thompson",REG-93102,Trading,CUST1151,Connie Hardy,2021-04-04,UAE
+COMP2035,Buckley-Stone,REG-16068,IT Services,CUST1081,Diana Barnes,2020-12-25,Cayman Islands
+COMP2036,Soto-Matthews,REG-38983,Trading,CUST1242,Kyle Woods,2022-10-10,Germany
+COMP2037,"Gray, Potter and Patterson",REG-14886,Import/Export,CUST1342,Kim Graham,2022-08-08,Singapore
+COMP2038,"Martinez, Gallagher and Rodriguez",REG-34533,Trading,CUST1383,Linda Ruiz,2022-01-17,India
+COMP2039,"Peters, Gonzalez and Castillo",REG-07351,Manufacturing,CUST1218,Kristin Gilbert,2024-06-26,India
+COMP2040,Phillips LLC,REG-36066,Manufacturing,CUST1017,Brad Ward,2023-08-22,India
+COMP2041,"Gonzalez, Rodgers and Le",REG-73891,Consulting,CUST1328,Tanya Rivera,2019-04-10,Cayman Islands
+COMP2042,"Vasquez, Jones and Wade",REG-31349,Manufacturing,CUST1158,Joshua Summers,2024-11-16,Cayman Islands
+COMP2043,Benjamin PLC,REG-61524,Manufacturing,CUST1341,Kathryn Smith,2019-05-13,British Virgin Islands
+COMP2044,"Holmes, Combs and Small",REG-15132,Trading,CUST1214,Ronnie Strickland,2023-01-24,Singapore
+COMP2045,Christensen and Sons,REG-95009,Consulting,CUST1175,Alexandra Holmes,2020-08-26,India
+COMP2046,Love and Sons,REG-80754,Manufacturing,CUST1384,David Meyer,2021-02-14,India
+COMP2047,Adams Ltd,REG-99469,Consulting,CUST1449,Meredith Jones,2022-03-03,UAE
+COMP2048,Carlson PLC,REG-79952,IT Services,CUST1267,Gregory Pennington,2022-04-05,Singapore
+COMP2049,Hoover and Sons,REG-29431,Trading,CUST1171,James Smith,2024-04-29,Germany
+COMP2050,Mckee Group,REG-12250,Import/Export,CUST1149,Jason Schmidt,2024-04-23,Singapore
+COMP2051,"Williams, Petty and Berger",REG-99677,Import/Export,CUST1053,Kayla Collier,2023-04-13,UAE
+COMP2052,Snyder PLC,REG-75305,Manufacturing,CUST1175,Alexandra Holmes,2021-06-06,Cayman Islands
+COMP2053,Rodgers PLC,REG-56013,Manufacturing,CUST1210,Virginia Bender,2023-03-06,Cayman Islands
+COMP2054,Palmer-Hubbard,REG-46011,Import/Export,CUST1086,Terri Cisneros,2023-01-19,Singapore
+COMP2055,Woodward-Whitney,REG-78184,Consulting,CUST1482,Teresa Townsend,2023-11-12,British Virgin Islands
+COMP2056,Williams Inc,REG-64474,Consulting,CUST1441,Amanda Zhang,2019-10-06,UAE
+COMP2057,Glover-Butler,REG-68939,Consulting,CUST1426,Deanna Bowman,2023-09-16,UAE
+COMP2058,"Stevens, Dunn and Johnson",REG-06507,Import/Export,CUST1444,Tasha Lawson,2022-12-08,Cayman Islands
+COMP2059,"Peterson, Anderson and Garza",REG-65287,Trading,CUST1104,Ann Gutierrez,2018-09-26,India
+COMP2060,"Morgan, Smith and Taylor",REG-59750,IT Services,CUST1300,Jessica Cervantes,2021-10-27,Cayman Islands
+COMP2061,Richardson-Coffey,REG-77831,Real Estate,CUST1192,Valerie Rose,2020-01-18,Germany
+COMP2062,Clay Group,REG-03643,Consulting,CUST1299,Melanie Norman,2023-09-06,British Virgin Islands
+COMP2063,"Phillips, Brady and Martin",REG-91182,Trading,CUST1378,Olivia Perry,2021-02-21,UAE
+COMP2064,Shelton Ltd,REG-43753,Real Estate,CUST1022,Riley Oneill,2021-06-03,India
+COMP2065,"Butler, Young and Ballard",REG-88552,Real Estate,CUST1053,Kayla Collier,2024-07-08,Germany
+COMP2066,Santiago and Sons,REG-21095,Real Estate,CUST1312,Denise Russell,2020-03-24,UAE
+COMP2067,Cooper-Lynch,REG-88844,IT Services,CUST1116,Julie Fisher,2020-03-28,UAE
+COMP2068,Campbell-Torres,REG-99630,Trading,CUST1084,John Brown,2018-11-15,India
+COMP2069,"Edwards, Peterson and Smith",REG-70416,Real Estate,CUST1380,David Green,2025-01-13,British Virgin Islands
+COMP2070,Hernandez and Sons,REG-57642,Manufacturing,CUST1306,Christy Caldwell,2023-10-07,Singapore
+COMP2071,"Garcia, Phelps and Bell",REG-08006,IT Services,CUST1195,Kyle Jones,2020-12-04,Cayman Islands
+COMP2072,"Porter, Green and Berry",REG-87810,Manufacturing,CUST1469,Janet Shaw,2022-05-31,British Virgin Islands
+COMP2073,Nunez PLC,REG-25791,IT Services,CUST1066,Regina Walker,2025-05-06,British Virgin Islands
+COMP2074,Chang-Moore,REG-33504,Trading,CUST1301,Madison Joseph,2023-07-15,Cayman Islands
+COMP2075,Farmer-Martin,REG-37588,Consulting,CUST1442,Donna Hoffman,2023-10-06,British Virgin Islands
+COMP2076,"Parker, Carter and Jones",REG-46135,Consulting,CUST1361,Jeffery Hanson,2021-08-19,UAE
+COMP2077,Harris-Smith,REG-17653,Manufacturing,CUST1037,Jacob Turner,2023-12-06,India
+COMP2078,Mcdonald-Martinez,REG-33045,Manufacturing,CUST1296,Amy Morgan,2024-10-20,Singapore
+COMP2079,"Wheeler, Valdez and Parker",REG-16868,Trading,CUST1372,Daniel Brewer,2021-01-03,Germany
+COMP2080,"Morris, Lamb and Martinez",REG-08358,Consulting,CUST1254,Cody Williams,2023-10-18,Cayman Islands
+COMP2081,Griffith and Sons,REG-16339,Import/Export,CUST1435,Jennifer Adams,2024-05-17,Germany
+COMP2082,White-Mitchell,REG-07550,IT Services,CUST1321,Michael Davis,2022-09-06,India
+COMP2083,"Sandoval, Castillo and Browning",REG-45658,Consulting,CUST1189,Donna Chavez,2019-04-24,Singapore
+COMP2084,Luna-Rivera,REG-92012,Manufacturing,CUST1381,Emily Sweeney,2023-08-02,India
+COMP2085,Burnett-Johnson,REG-63082,Import/Export,CUST1393,Juan Baker,2018-09-29,Germany
+COMP2086,"Hawkins, Gutierrez and Sanchez",REG-78359,Consulting,CUST1357,Dana Floyd,2018-09-21,India
+COMP2087,Arellano and Sons,REG-66014,Trading,CUST1161,Kevin King,2021-05-26,India
+COMP2088,Warner PLC,REG-93996,IT Services,CUST1446,Jeff Bowen,2020-11-07,Cayman Islands
+COMP2089,Briggs-Potter,REG-01466,IT Services,CUST1344,Allen Potts,2024-12-01,Singapore
+COMP2090,Klein and Sons,REG-23753,Manufacturing,CUST1202,Robert Orr,2023-11-18,Cayman Islands
+COMP2091,Campbell-Rhodes,REG-11599,IT Services,CUST1085,Victoria Brown,2023-05-23,British Virgin Islands
+COMP2092,"Edwards, Barajas and Adams",REG-63184,Import/Export,CUST1438,Jodi Hamilton,2022-05-28,Singapore
+COMP2093,Wilson Ltd,REG-56930,IT Services,CUST1219,Ashley Brown,2019-07-24,British Virgin Islands
+COMP2094,Wise-Figueroa,REG-62436,Real Estate,CUST1387,Autumn Mcmahon,2022-03-13,Germany
+COMP2095,Pugh-Lee,REG-30827,IT Services,CUST1019,Christina Cooper,2019-04-13,Singapore
+COMP2096,"Perez, Hicks and Cooley",REG-40790,IT Services,CUST1010,Maria Barajas,2018-07-30,UAE
+COMP2097,"Sullivan, Lewis and Allen",REG-63875,Import/Export,CUST1288,Candice Sims,2025-02-05,Singapore
+COMP2098,Smith-Ruiz,REG-05752,Import/Export,CUST1452,Joshua Mueller,2021-05-11,Germany
+COMP2099,Mckinney Group,REG-33033,Trading,CUST1144,Maria Goodman,2023-12-02,India

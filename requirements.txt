@@ -1,0 +1,10 @@
+pandas
+faker
+neo4j
+xgboost
+scikit-learn
+shap
+fastapi
+uvicorn
+anthropic
+python-dotenv
